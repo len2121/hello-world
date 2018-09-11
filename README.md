@@ -1,2 +1,3 @@
 # hello-world
-Exercise to begin learning how to use Github
+PhD student studying biological anthropology at NYU
+Trying to learn how to use Github
